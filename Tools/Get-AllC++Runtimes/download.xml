@@ -105,10 +105,10 @@
     </DownloadItem>
     <DownloadItem>
         <Comment></Comment>
-        <FullName>Visual C++ Redistributable for Visual Studio 2017 (x86)</FullName>
-        <ShortName>VS2017X86</ShortName>
-        <Source>https://go.microsoft.com/fwlink/?LinkId=746571</Source>
-        <DestinationFolder>VS2017</DestinationFolder>
+        <FullName>Visual C++ Redistributable for Visual Studio 2019 (x86)</FullName>
+        <ShortName>VS2019X86</ShortName>
+        <Source>https://aka.ms/vs/16/release/vc_redist.x86.exe</Source>
+        <DestinationFolder>VS2019</DestinationFolder>
         <DestinationFile>vc_redist.x86.exe</DestinationFile>
         <URL>http://www.microsoft.com</URL>
         <CommandType>NONE</CommandType>
@@ -118,10 +118,10 @@
     </DownloadItem>
     <DownloadItem>
         <Comment></Comment>
-        <FullName>Visual C++ Redistributable for Visual Studio 2017 (x64)</FullName>
-        <ShortName>VS2017X64</ShortName>
-        <Source>https://go.microsoft.com/fwlink/?LinkId=746572</Source>
-        <DestinationFolder>VS2017</DestinationFolder>
+        <FullName>Visual C++ Redistributable for Visual Studio 2019 (x64)</FullName>
+        <ShortName>VS2019X64</ShortName>
+        <Source>https://aka.ms/vs/16/release/vc_redist.x64.exe</Source>
+        <DestinationFolder>VS2019</DestinationFolder>
         <DestinationFile>vc_redist.x64.exe</DestinationFile>
         <URL>http://www.microsoft.com</URL>
         <CommandType>NONE</CommandType>
